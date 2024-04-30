@@ -1,0 +1,7 @@
+
+
+java:S1104	"UMake userEmail a static final constant or non-public and provide accessors if needed.(õ¸´ûıÿÿÿÿ8òË¼Éâ1J$1a03df2c-3c54-457c-a66a-4bfc56afa0ad
+ 
+java:S1104
+"XMake userPassword a static final constant or non-public and provide accessors if needed.(ÓÓ«—úÿÿÿÿ8òË¼Éâ1J$08b33095-a888-4955-b493-3e9d92b6c515
+¡	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(ƒ Œøûÿÿÿÿ8Ì½ÀÉâ1J$55adfaa3-c484-4722-a303-ebd7b45d7834

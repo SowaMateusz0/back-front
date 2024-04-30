@@ -1,0 +1,9 @@
+
+’
+java:S1104	"QMake token a static final constant or non-public and provide accessors if needed.(œ½Ë„ıÿÿÿÿJ$3f747cc2-5fe5-4a57-91c1-9f84f1828cd5
+
+java:S1104
+"RMake userId a static final constant or non-public and provide accessors if needed.(ˆÀÕôJ$9bd8a296-bb3c-40e2-853a-df8e37e68eac
+
+java:S1104"SMake message a static final constant or non-public and provide accessors if needed.(ÕÃØ·J$09f5f844-a02a-4a54-8105-ec1dadf84e91
+•	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(§ç¯ÇJ$0daca112-ce4e-467f-afc0-8189ba90833f
